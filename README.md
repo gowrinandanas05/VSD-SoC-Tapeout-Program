@@ -1,6 +1,5 @@
 
 
-
 # Week 0 Report
 
 ## 📌 Task 1: GitHub Repository Creation and Video Summary
