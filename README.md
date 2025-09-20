@@ -1,14 +1,11 @@
-Perfect 👍 I’ll rewrite your **entire README.md** with **all installation steps (2.1 → 2.6)** formatted properly, so every command is on its own line inside a `bash` code block. This will render cleanly on GitHub.
 
-Here’s the complete fixed README:
 
-````markdown
+
 # Week 0 Report
 
 ## 📌 Task 1: GitHub Repository Creation and Video Summary
 
-### 🔗 Link:
-(Add your video link here)
+
 
 ### 📝 Summary
 The video explains the various stages to go from an idea in C language to a real chip used in electronics.
